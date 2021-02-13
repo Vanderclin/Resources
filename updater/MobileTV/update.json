@@ -1,5 +1,5 @@
 {
    "url": "https://raw.githubusercontent.com/Vanderclin/Resources/master/app/MobileTV/app-release.apk",
-   "versionCode": 17,
-   "updateMessage": "· Version 1.7\n· Add Theme Colors"
+   "versionCode": 18,
+   "updateMessage": "· Version 1.8\n· Add theme configuration\n· Replacement of the empty logo with an internal icon."
 }
