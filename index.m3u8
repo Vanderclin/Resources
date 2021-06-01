@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:8669
+#EXT-X-TARGETDURATION:7
+#EXTINF:5.200,
+http://tv1.cs10.tv:80/leopoldo/leopoldo/397
+#EXTINF:5.880,
+http://tv1.cs10.tv:80/leopoldo/leopoldo/398
