@@ -1,0 +1,18 @@
+{
+   "rules":{
+      "public":{
+         ".read": "true",
+         ".write": "auth != null"
+      },
+      "private":{
+         ".read": "auth != null && auth.uid == uid",
+         ".write": "auth != null && auth.uid == uid"
+      },
+      "users": {
+         "$uid": {
+            ".read": "$uid === auth.uid",
+            ".write": "$uid === auth.uid"
+         }
+      }
+   }
+}
